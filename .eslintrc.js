@@ -49,5 +49,6 @@ module.exports = {
                 ignoreRestSiblings: true,
             },
         ],
+        '@typescript-eslint/no-extraneous-class': 'off'
     },
 };
